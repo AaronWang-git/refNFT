@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="211 548 669 297" width="669" height="297">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-09-20 15:26:11 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="211" y="548" width="669" height="297"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <rect x="211" y="548" width="627" height="264" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image3.png" width="627" height="264" transform="translate(211 548)"/>
+        </g>
+      </g>
+      <g id="Graphic_5">
+        <rect x="229" y="561" width="627" height="264" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image4.png" width="627" height="264" transform="translate(229 561)"/>
+        </g>
+      </g>
+      <g id="Graphic_2">
+        <rect x="253" y="582" width="627" height="263" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image1.png" width="627" height="263" transform="translate(253 582)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
