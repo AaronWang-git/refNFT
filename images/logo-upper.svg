@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="533 722 47 44" width="47" height="44">
+  <defs>
+    <font-face font-family="Avenir" font-size="25" panose-1="2 11 7 3 2 2 3 9 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="-320" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-style="italic" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-HeavyOblique"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir" font-size="20" panose-1="2 11 7 3 2 2 3 9 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="-400" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-style="italic" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-HeavyOblique"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-09-20 15:40:57 +0000</metadata>
+  <g id="logo-upper" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>logo-upper</title>
+    <rect fill="white" x="533" y="722" width="47" height="44"/>
+    <g id="logo-upper_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="533.4" y="722" width="46.6" height="44" fill="#96a28c"/>
+        <text transform="translate(538.4 727)" fill="white">
+          <tspan font-family="Avenir" font-size="25" font-style="italic" font-weight="800" fill="white" x="1.1649992" y="25">R</tspan>
+          <tspan font-family="Avenir" font-size="20" font-style="italic" font-weight="800" fill="white" y="25">ef</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
