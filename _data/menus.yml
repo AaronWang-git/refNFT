@@ -5,10 +5,10 @@ main:
   - name: "We're hiring"
     url: "/team/"
     weight: 3
-  - name: "Contact us"
+  - name: "Request demo"
     url: "/about/"
     weight: 4
-  - name: "Request demo"
+  - name: "Contact us"
     url: "/contact/"
     weight: 5
 
