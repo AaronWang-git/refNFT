@@ -1,6 +1,6 @@
 main:
   - name: "Request demo"
-    url: "/services/"
+    url: "/demo/"
     weight: 2
   - name: "We're hiring"
     url: "/team/"
