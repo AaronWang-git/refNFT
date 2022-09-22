@@ -2,7 +2,7 @@
 title: Demo
 layout: services
 description: Demo
-intro_image: "images/illustrations/cover1.jpg"
+intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
