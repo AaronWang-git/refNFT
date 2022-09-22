@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Demo
 layout: services
 description: Services
 intro_image: "images/illustrations/cover1.jpg"
