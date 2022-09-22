@@ -1,7 +1,7 @@
 ---
 title: Demo
 layout: services
-description: Services
+description: Demo
 intro_image: "images/illustrations/cover1.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
