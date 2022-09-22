@@ -1,11 +1,11 @@
 main:
-  - name: "About us"
+  - name: "Request demo"
     url: "/services/"
     weight: 2
   - name: "We're hiring"
     url: "/team/"
     weight: 3
-  - name: "Request demo"
+  - name: "About us"
     url: "/about/"
     weight: 4
   - name: "Contact us"
