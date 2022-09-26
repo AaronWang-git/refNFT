@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Chaze Opportunities
 
-Our project can pave the way towards Web3. Join us!
+Our project paves the way towards Web3. Join us!
