@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Chaze Opportunities
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our project can pave the way towards Web3. Join us!
