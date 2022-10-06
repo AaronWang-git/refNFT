@@ -1,3 +1,4 @@
+
 .main-menu {
   display: none;
   @include media-breakpoint-up(md) {
@@ -11,6 +12,7 @@
       list-style: none;
       font-size: 1rem;
       > a {
+        font-family: NHD;
         padding: 10px 12px 10px 12px;
         display: inline-block;
         font-weight: normal;
