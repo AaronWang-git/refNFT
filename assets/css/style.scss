@@ -2,9 +2,9 @@
 ---
 
 // Colors
-$primary: #e5261f;
+$primary: #29bf12;
 $primary-dark: #a01b16;
-$secondary: #f88379;
+$secondary: #f26a4f;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
@@ -17,8 +17,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: NHD;
+$font-family-heading: NHD;
 
 // Footer
 $footer-background-color: $primary;
@@ -61,10 +61,16 @@ $sub-footer-text-color: $white;
 @import "pages/page-teams";
 @import "pages/page-service";
 
+@font-face {
+  font-family: 'NHD';
+  font-style: normal;
+  font-weight: 400;
+  src: url('NeueHaasDisplayMediu.ttf') format('truetype');
+}
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: $font-family-base;
+  font-family: NHD;
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;
